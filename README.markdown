@@ -10,6 +10,8 @@ Installation
 
 Install Dependencies first:
 
+Ubuntu:
+
     sudo apt-get install autoconf autopoint
 
 Download source tarball, extract, compile and install:
