@@ -9,8 +9,8 @@ Installation
 ### Linux / kfreebsd ###
 
 Install Dependencies first:
-	sudo apt-get install autoconf autopoint
 
+    sudo apt-get install autoconf autopoint
 
 Download source tarball, extract, compile and install:
 
